@@ -9,9 +9,6 @@ echo 1;
 echo 11;
 echo 111;
 
-echo 'adddddddd';
-
-echo 'sdfasfafa';
 
 echo "angelabay test";
 echo 'again';
