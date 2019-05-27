@@ -1,0 +1,24 @@
+{
+    "name": "zed/demo",
+    "authors": [
+        {
+            "name": "zed",
+            "email": "zedsmail@163.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "ItineraryService.php"
+        ]
+    },
+    "require": {
+        "phpunit/phpunit": "^7.0",
+        "mockery/mockery": "^1.2"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.laravel-china.org"
+        }
+    }
+}
