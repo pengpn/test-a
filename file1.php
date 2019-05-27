@@ -9,23 +9,4 @@ echo 1;
 echo 11;
 echo 111;
 
-
-echo "angelabay test";
-echo 'again';
-echo 'again2';
-echo 'agamin3';
-
-echo "angelabay test";
-echo 'again';
-echo 'again2';
-echo 'agamin3';
-echo "angelabay test";
-echo 'again';
-echo 'again2';
-echo 'agamin3';echo "angelabay test";
-echo 'again';
-echo 'again2';
-echo 'agamin3';echo "angelabay test";
-echo 'again';
-echo 'again2';
-echo 'agamin3';
+echo 'new';
