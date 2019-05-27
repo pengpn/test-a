@@ -12,12 +12,3 @@ echo 111;
 echo 'new';
 
 
-echo 'new';
-
-echo 'new';
-echo 'new';
-
-echo 'new';
-
-echo 'new';
-
