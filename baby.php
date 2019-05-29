@@ -6,12 +6,4 @@
  * Time: 10:16 PM
  */
 baby1
-dgsdgdg
-gs
-g
-gs
-g
-instanceof h
-h
-h
-sh
+1111111111
