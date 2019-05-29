@@ -6,3 +6,4 @@
  * Time: 10:16 PM
  */
 echo 'init';
+echo 'init 2';
