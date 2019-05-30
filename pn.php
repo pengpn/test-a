@@ -12,3 +12,4 @@ finfo_set_flags(sggg)
     sggsg
     sgdgsggs
     sggsdsfs
+    ssdfs
