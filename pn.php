@@ -8,3 +8,7 @@
 
 echo 'pn !!!!';
 
+finfo_set_flags(sggg)
+    sggsg
+    sgdgsggs
+    sggs
