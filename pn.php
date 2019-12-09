@@ -6,9 +6,9 @@
  * Time: 10:15 PM
  */
 
-echo 'pn !!!';
-echo 'pn !!!!';
-echo 'pn !!!!';
-echo 'pn !!!!';
 echo 'pn !!!!';
 
+finfo_set_flags(sggg)
+    sggsg
+    sgdgsggs
+    sggs
