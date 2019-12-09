@@ -12,3 +12,6 @@ finfo_set_flags(sggg)
     sggsg
     sgdgsggs
     sggs
+
+
+    test 1
