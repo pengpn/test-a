@@ -8,3 +8,5 @@
 echo 'init';
 echo 'init 2';
 echo 'test revert';
+
+echo 'test revert 2'
